@@ -10,7 +10,7 @@ body {
   height: 100%;
 }
 body {
-  background-color: #45a173;
+  background-color: #3b3370;
   color: #333;
   font-family: 'Open Sans', sans-serif;
   -webkit-user-select: none;
@@ -55,7 +55,7 @@ body {
 }
 #topbar button:hover {
   background-color: #fff;
-  color: #444;
+  color: #9c0f0f;
 }
 .message {
   position: fixed;
